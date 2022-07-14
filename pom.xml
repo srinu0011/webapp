@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.javatpoint</groupId>
-  <artifactId>CubeGenerator</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <artifactId>Web-app-project</artifactId>
+  <version>1.0.4</version>
 
-  <name>CubeGenerator</name>
+  <name>Web-app-project</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
